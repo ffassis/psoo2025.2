@@ -26,3 +26,6 @@ YouTube
 
 Sistema disque denúncia UFABC
 https://www.youtube.com/watch?v=svj5vNpAZ8M&t=11s
+
+Cartilha w3c Acessibilidade na Web
+https://w3c.br/web-para-todos/cartilhas-de-acessibilidade-na-web/
